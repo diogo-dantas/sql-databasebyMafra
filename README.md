@@ -1,7 +1,5 @@
 ### Complete database and SQL course 
 
-SQL practice under the related database course taught by Felipe Mafra.
-
 **Topics Covered:**
 
 - Triggers, Procedures, Functions, Constraints e Views;
