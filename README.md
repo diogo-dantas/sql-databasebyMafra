@@ -6,5 +6,5 @@
 - Data dictionary;
 - SQL Language;
 - Data modeling for transactional system;
-- Normal formal application;
+- Normal formal application.
 
