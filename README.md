@@ -7,4 +7,4 @@
 - SQL Language;
 - Data modeling for transactional system;
 - Normal formal application;
-- Practice in MySql, Oracle and PostgreSQL;
+
